@@ -80,7 +80,7 @@ export default {
 <style scoped>
 .line{
   text-align: center;
-    /* 测试github桌面版本提交 */
+    /* 测试github桌面版本提 */
 }
 </style>
 
