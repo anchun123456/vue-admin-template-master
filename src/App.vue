@@ -9,3 +9,6 @@ export default {
   name: 'App'
 }
 </script>
+
+
+https://gitee.com/anchun_123/sixlucky.git
